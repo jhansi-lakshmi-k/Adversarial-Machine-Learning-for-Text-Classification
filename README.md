@@ -2,10 +2,10 @@
 Synonym-Based Adversarial Attack and Defense in Natural Language Processing
 
 Team Members:
-Jhansi Lakshmi Kaligineedi – R11896217
-Simran Sunil – R11890468
-Lalithya Manasa Patri  - R11896135
-Venkata Mohana Rao Nandigam – R11836582
+Jhansi Lakshmi Kaligineedi
+Simran Sunil
+Lalithya Manasa Patri
+Venkata Mohana Rao Nandigam
 
 Below are the steps for performing the HQA Attack:
 
